@@ -1,16 +1,20 @@
-# influencer_gear_project
+#  – Responsive UI Design
 
-A new Flutter project.
+## 📸 Screenshots
 
-## Getting Started
+### ✅ Mobile View (2 cards per row)
+![Mobile View](https://raw.githubusercontent.com/MynulIslam17/influencer_gear/refs/heads/main/Screenshot%20(219).png)
 
-This project is a starting point for a Flutter application.
+### ✅ Tablet View (3 cards per row)
+![Tablet View](https://raw.githubusercontent.com/MynulIslam17/influencer_gear/03273f90332ac69e9cdce14b30f885b822fc5c59/Screenshot%20(221).png)
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Desktop/Web View (4 cards per row)
+![Desktop View](https://raw.githubusercontent.com/MynulIslam17/influencer_gear/ff179404074f2284fd92ba7f3b89dcb67e6d0fbe/Screenshot%20(223).png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run the Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you're using *Flutter*:
+
+```bash
+flutter pub get
+flutter run
