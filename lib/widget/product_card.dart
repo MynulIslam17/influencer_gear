@@ -101,13 +101,14 @@ class ProductCard extends StatelessWidget {
     int childCount(BuildContext context){
       double width=MediaQuery.of(context).size.width;
       
-      if(width<=500){
+      if(width<=480){
         return 1;
-      }else if(width<800){
+      }else if(width<700){
         return 2;
-      }
-      else{
+      }else if(width<1100){
         return 3;
+      }else{
+        return 4;
       }
       
     }
